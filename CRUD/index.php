@@ -4,7 +4,7 @@
 <head>
 <title>Revaldy | Crud Menggunakan  Bootstrap (popup)</title>
 <meta content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" name="viewport"/>
-<meta content="Aguzrybudy" name="author"/>
+<meta content="Revaldy" name="author"/>
 <link href="css/bootstrap.css" rel="stylesheet">
 <script src="js/jquery.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
